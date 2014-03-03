@@ -2,7 +2,6 @@ CSS Animation
 =============
 
 ## The CSS Animation Assignment
--------------------------------
 
 #### CSS Transitions and Animations
 
